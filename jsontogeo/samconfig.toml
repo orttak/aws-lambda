@@ -1,0 +1,11 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "jsontogeojson"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-17by5v0d3lszd"
+s3_prefix = "jsontogeojson"
+region = "eu-west-1"
+confirm_changeset = true
+capabilities = "CAPABILITY_IAM"
+image_repositories = ["JsonToGeojsonFunction=945130107345.dkr.ecr.eu-west-1.amazonaws.com/jsontogeojson"]
