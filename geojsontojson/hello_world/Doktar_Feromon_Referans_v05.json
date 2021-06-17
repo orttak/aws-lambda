@@ -1,0 +1,410 @@
+[
+  {
+    "ClassId": 1,
+    "ClassLatinName": "Lobesia botrana",
+    "ClassTurkishName": "Salkım Güvesi",
+    "ClassEnglishName": "European Grapevine Moth",
+    "TagName": "SalkimGuvesi",
+    "ColorCode": "#2f719e"
+  },
+  {
+    "ClassId": 2,
+    "ClassLatinName": "Cydia pomonella",
+    "ClassTurkishName": "Elma İç Kurdu",
+    "ClassEnglishName": "Codling Moth",
+    "TagName": "ElmaIcKurdu",
+    "ColorCode": "#06ce3e"
+  },
+  {
+    "ClassId": 3,
+    "ClassLatinName": "Prays oleae",
+    "ClassTurkishName": "Zeytin Güvesi",
+    "ClassEnglishName": "Olive Moth",
+    "TagName": "ZeytinGuvesi",
+    "ColorCode": "#ccf0ff"
+  },
+  {
+    "ClassId": 4,
+    "ClassLatinName": "Tuta absoluta",
+    "ClassTurkishName": "Domates Güvesi",
+    "ClassEnglishName": "Tomato Leafminer",
+    "TagName": "DomatesGuvesi",
+    "ColorCode": "#23dba7"
+  },
+  {
+    "ClassId": 5,
+    "ClassLatinName": "Frankliniella occidentalis",
+    "ClassTurkishName": "Çiçek Tripsi",
+    "ClassEnglishName": "Western Flower Thrips",
+    "TagName": "CicekTripsi",
+    "ColorCode": "#a0f43f"
+  },
+  {
+    "ClassId": 6,
+    "ClassLatinName": "Phthorimaea operculella",
+    "ClassTurkishName": "Patates Güvesi",
+    "ClassEnglishName": "Potato Tuber Moth",
+    "TagName": "PatatesGuvesi",
+    "ColorCode": "#ce04c1"
+  },
+  {
+    "ClassId": 7,
+    "ClassLatinName": "Pectinophora gossypiella",
+    "ClassTurkishName": "Pamukta Pembe Kurt",
+    "ClassEnglishName": "Pink Bollworm",
+    "TagName": "PamukPembeKurt",
+    "ColorCode": "#64b9db"
+  },
+  {
+    "ClassId": 8,
+    "ClassLatinName": "Spodoptera littoralis",
+    "ClassTurkishName": "Pamuk Yaprakkurdu",
+    "ClassEnglishName": "African Cotton Leafworm",
+    "TagName": "PamukYaprakKurdu",
+    "ColorCode": "#efaa4f"
+  },
+  {
+    "ClassId": 9,
+    "ClassLatinName": "Helicoverpa(=Heliothis) armigera",
+    "ClassTurkishName": "Yeşilkurt",
+    "ClassEnglishName": "Cotton Bollworm",
+    "TagName": "YesilKurt",
+    "ColorCode": "#73ce18"
+  },
+  {
+    "ClassId": 10,
+    "ClassLatinName": "Ectomyelois ceratoniae",
+    "ClassTurkishName": "Harnup Güvesi",
+    "ClassEnglishName": "Locust Bean Moth",
+    "TagName": "HarnupGuvesi",
+    "ColorCode": "#f49573"
+  },
+  {
+    "ClassId": 11,
+    "ClassLatinName": "Cydia molesta",
+    "ClassTurkishName": "Doğu Meyve Güvesi",
+    "ClassEnglishName": "Oriental Fruit Moth",
+    "TagName": "DoguMeyveGuvesi",
+    "ColorCode": "#163daa"
+  },
+  {
+    "ClassId": 12,
+    "ClassLatinName": "Archips rosana",
+    "ClassTurkishName": "Elma Yaprakbükeni",
+    "ClassEnglishName": "European Leaf Roller",
+    "TagName": "ElmaYaprakBukeni",
+    "ColorCode": "#8aaa06"
+  },
+  {
+    "ClassId": 13,
+    "ClassLatinName": "Ceratitis capitata",
+    "ClassTurkishName": "Akdeniz Meyve Sineği",
+    "ClassEnglishName": "Mediterranean Fruit Fly",
+    "TagName": "AkdenizMeyveSinegi",
+    "ColorCode": "#b6ffaa"
+  },
+  {
+    "ClassId": 14,
+    "ClassLatinName": "Bactrocera oleae",
+    "ClassTurkishName": "Zeytin Sineği",
+    "ClassEnglishName": "Olive Fruit Fly",
+    "TagName": "ZeytinSinegi",
+    "ColorCode": "#e83a48"
+  },
+  {
+    "ClassId": 15,
+    "ClassLatinName": "Cossus cossus",
+    "ClassTurkishName": "Kızıl Ağaç Kurdu",
+    "ClassEnglishName": "Carpenter Moth",
+    "TagName": "KizilAgacKurdu",
+    "ColorCode": "#ea4bbd"
+  },
+  {
+    "ClassId": 16,
+    "ClassLatinName": "Prays citri",
+    "ClassTurkishName": "Limon Çiçek Güvesi",
+    "ClassEnglishName": "Citrus Flower Moth",
+    "TagName": "LimonCicekGuvesi",
+    "ColorCode": "#106ab5"
+  },
+  {
+    "ClassId": 17,
+    "ClassLatinName": "Rhagoletis cerasi",
+    "ClassTurkishName": "Kiraz Sineği",
+    "ClassEnglishName": "Cherry Fruit Fly",
+    "TagName": "KirazSinegi",
+    "ColorCode": "#140160"
+  },
+  {
+    "ClassId": 18,
+    "ClassLatinName": "Anarsia lineatella",
+    "ClassTurkishName": "Şeftali Güvesi",
+    "ClassEnglishName": "Peach Twig Borer",
+    "TagName": "SeftaliGuvesi",
+    "ColorCode": "#fceac4"
+  },
+  {
+    "ClassId": 19,
+    "ClassLatinName": "Grapholita funebrana",
+    "ClassTurkishName": "Erik İç Kurdu",
+    "ClassEnglishName": "Red Plum Maggot",
+    "TagName": "ErikIcKurdu",
+    "ColorCode": "#93ea5d"
+  },
+  {
+    "ClassId": 20,
+    "ClassLatinName": "Zeuzera pyrina",
+    "ClassTurkishName": "Sarı Ağaç Kurdu",
+    "ClassEnglishName": "Leopard Moth",
+    "TagName": "SariAgacKurdu",
+    "ColorCode": "#967ef7"
+  },
+  {
+    "ClassId": 21,
+    "ClassLatinName": "Synanthedon myopaeformis",
+    "ClassTurkishName": "Elma Gövde Kurdu",
+    "ClassEnglishName": "Red-Belted Clearwing",
+    "TagName": "ElmaGovdeKurdu",
+    "ColorCode": "#276784"
+  },
+  {
+    "ClassId": 22,
+    "ClassLatinName": "Epicometis hirta",
+    "ClassTurkishName": "Baklazınnı",
+    "ClassEnglishName": "Apple Blossom Beetle",
+    "TagName": "BaklaZinni",
+    "ColorCode": "#ea17e3"
+  },
+  {
+    "ClassId": 23,
+    "ClassLatinName": "Rhynchophorus ferrugineus",
+    "ClassTurkishName": "Kırmızı Palmiye Böceği",
+    "ClassEnglishName": "Red Palm Weevil",
+    "TagName": "KirmiziPalmiyeBocegi",
+    "ColorCode": "#fccbc4"
+  },
+  {
+    "ClassId": 24,
+    "ClassLatinName": "Plodia interpunctella",
+    "ClassTurkishName": "Kuru Meyve Güvesi",
+    "ClassEnglishName": "Indian-Meal Moth",
+    "TagName": "KuruMeyveGuvesi",
+    "ColorCode": "#a08be0"
+  },
+  {
+    "ClassId": 25,
+    "ClassLatinName": "Ephestia kuehniella",
+    "ClassTurkishName": "Değirmen Güvesi",
+    "ClassEnglishName": "Mediterranean Flour Moth",
+    "TagName": "DegirmenGuvesi",
+    "ColorCode": "#4bdef2"
+  },
+  {
+    "ClassId": 26,
+    "ClassLatinName": "Lasioderma serricorne",
+    "ClassTurkishName": "Tatlı Kurt",
+    "ClassEnglishName": "Cigarette Beetle",
+    "TagName": "TatliKurt",
+    "ColorCode": "#e09743"
+  },
+  {
+    "ClassId": 27,
+    "ClassLatinName": "Sitotroga cereallela",
+    "ClassTurkishName": "Arpa Güvesi",
+    "ClassEnglishName": "Angoumois Grain Moth",
+    "TagName": "ArpaGuvesi",
+    "ColorCode": "#7ff6ff"
+  },
+  {
+    "ClassId": 28,
+    "ClassLatinName": "Sitophilus granarius",
+    "ClassTurkishName": "Buğday Biti",
+    "ClassEnglishName": "Grain Weevil",
+    "TagName": "BugdayBiti",
+    "ColorCode": "#48d831"
+  },
+  {
+    "ClassId": 29,
+    "ClassLatinName": "Tineola bisselliella",
+    "ClassTurkishName": "Elbise Güvesi",
+    "ClassEnglishName": "Clothes Moth",
+    "TagName": "ElbiseGuvesi",
+    "ColorCode": "#1ba34b"
+  },
+  {
+    "ClassId": 30,
+    "ClassLatinName": "Pityokteines curvidens",
+    "ClassTurkishName": "Göknar Büyük Kabuk Böceği",
+    "ClassEnglishName": "Fir Engraver Beetle",
+    "TagName": "GoknarBuyukKabukBocegi",
+    "ColorCode": "#1b767c"
+  },
+  {
+    "ClassId": 31,
+    "ClassLatinName": "Pityokteines spinidens",
+    "ClassTurkishName": "Yatay Dişli Göknar Kabuk Böceği",
+    "ClassEnglishName": "Bark Beetle",
+    "TagName": "YatayDisliGoknarKabukBocegi",
+    "ColorCode": "#a453db"
+  },
+  {
+    "ClassId": 32,
+    "ClassLatinName": "Orthotomicus erosus",
+    "ClassTurkishName": "Akdeniz Çam Kabuk Böceği",
+    "ClassEnglishName": "Mediterranean Pine Beetle",
+    "TagName": "AkdenizCamKabukBocegi",
+    "ColorCode": "#c910ea"
+  },
+  {
+    "ClassId": 33,
+    "ClassLatinName": "Ips sexdentatus",
+    "ClassTurkishName": "Oniki Dişli Çam Kabuk Böceği",
+    "ClassEnglishName": "Six-Toothed Bark Beetle",
+    "TagName": "OnikiDisliCamKabukBocegi",
+    "ColorCode": "#962807"
+  },
+  {
+    "ClassId": 34,
+    "ClassLatinName": "Rhyacionia buoliana",
+    "ClassTurkishName": "Çam Sürgün Bükücüsü",
+    "ClassEnglishName": "European Pine Shoot Moth",
+    "TagName": "CamSurgunBukucusu",
+    "ColorCode": "#a6fca1"
+  },
+  {
+    "ClassId": 35,
+    "ClassLatinName": "Thaumetopoea pityocampa",
+    "ClassTurkishName": "Çam Kese Böceği",
+    "ClassEnglishName": "Pine Processionary Moth",
+    "TagName": "CamKeseBocegi",
+    "ColorCode": "#07ed8d"
+  },
+  {
+    "ClassId": 36,
+    "ClassLatinName": "Pissodes notatus",
+    "ClassTurkishName": "Çam Kültür Hortumlu Böceği",
+    "ClassEnglishName": "Small Banded Pine Weevil",
+    "TagName": "CamKulturHortumluBocegi",
+    "ColorCode": "#69c93c"
+  },
+  {
+    "ClassId": 37,
+    "ClassLatinName": "Blastophagus(=Tomicus) minor",
+    "ClassTurkishName": "Küçük Orman Bahçıvanı",
+    "ClassEnglishName": "Lesser Pine Shoot Beetle",
+    "TagName": "KucukOrmanBahcivani",
+    "ColorCode": "#51abef"
+  },
+  {
+    "ClassId": 38,
+    "ClassLatinName": "Blastophagus(=Tomicus) piniperda",
+    "ClassTurkishName": "Büyük Orman Bahçıvanı",
+    "ClassEnglishName": "Common Pine Shoot Beetle",
+    "TagName": "BuyukOrmanBahcivani",
+    "ColorCode": "#847ef7"
+  },
+  {
+    "ClassId": 39,
+    "ClassLatinName": "Blastophagus(Tomicus)destruens",
+    "ClassTurkishName": "Akdeniz Orman Bahçıvanı",
+    "ClassEnglishName": "Mediterranean Pine Shoot Beetle",
+    "TagName": "AkdenizOrmanBahcivani",
+    "ColorCode": "#daaeef"
+  },
+  {
+    "ClassId": 40,
+    "ClassLatinName": "Ips acuminatus",
+    "ClassTurkishName": "Altı Dişli Çam Kabuk Böceği",
+    "ClassEnglishName": "Engraver Beetle",
+    "TagName": "AltiDisliCamKabukBocegi",
+    "ColorCode": "#73f4ba"
+  },
+  {
+    "ClassId": 41,
+    "ClassLatinName": "Cryphalus piceae",
+    "ClassTurkishName": "Küçük Göknar Kabuk Böceği",
+    "ClassEnglishName": "Small Fir Bark Beetle",
+    "TagName": "KucukGoknarKabukBocegi",
+    "ColorCode": "#d66053"
+  },
+  {
+    "ClassId": 42,
+    "ClassLatinName": "Xyleborus dispar",
+    "ClassTurkishName": "Fındık Dalkıran",
+    "ClassEnglishName": "Pear Bright Beetle",
+    "TagName": "FindikDalkiran",
+    "ColorCode": "#e819cf"
+  },
+  {
+    "ClassId": 43,
+    "ClassLatinName": "Ips typographus",
+    "ClassTurkishName": "Sekiz Dişli Çam Kabuk Böceği",
+    "ClassEnglishName": "Eight-Toothed Bark Beetle",
+    "TagName": "SekizDisliCamKabukBocegi",
+    "ColorCode": "#b28110"
+  },
+  {
+    "ClassId": 47,
+    "ClassLatinName": "Chrysoperla carnea",
+    "ClassTurkishName": "Altın Gözlü Böcek",
+    "ClassEnglishName": "Common Green Lacewing",
+    "TagName": "AltinGozluBocek",
+    "ColorCode": "#4f0c9b"
+  },
+  {
+    "ClassId": 44,
+    "ClassLatinName": "Apidae",
+    "ClassTurkishName": "Arı",
+    "ClassEnglishName": "Bee",
+    "TagName": "Ari",
+    "ColorCode": "#3be2a5"
+  },
+  {
+    "ClassId": 45,
+    "ClassLatinName": "Sesamia nonagrioides",
+    "ClassTurkishName": "Mısır Koçan Kurdu",
+    "ClassEnglishName": "Mediterranean Corn Stalk Borer",
+    "TagName": "MisirKocanKurdu",
+    "ColorCode": "#9cd358"
+  },
+  {
+    "ClassId": 46,
+    "ClassLatinName": "Diptera",
+    "ClassTurkishName": "Sinek",
+    "ClassEnglishName": "Fly",
+    "TagName": "Sinek",
+    "ColorCode": "#e85ca9"
+  },
+  {
+    "ClassId": 900,
+    "ClassLatinName": "Insecta",
+    "ClassTurkishName": "Feromon",
+    "ClassEnglishName": "Pheromone",
+    "TagName": "Feromon",
+    "ColorCode": "#aff29b"
+  },
+  {
+    "ClassId": 901,
+    "ClassLatinName": "Nescio uos eructavit",
+    "ClassTurkishName": "Tanımsız",
+    "ClassEnglishName": "Unidentified",
+    "TagName": "Tanimsiz",
+    "ColorCode": "#7204e8"
+  },
+  {
+    "ClassId": 902,
+    "ClassLatinName": "Object",
+    "ClassTurkishName": "Cisim",
+    "ClassEnglishName": "Object",
+    "TagName": "Cisim",
+    "ColorCode": "#aff29a"
+  },
+  {
+    "ClassId": 903,
+    "ClassLatinName": "In Progressus",
+    "ClassTurkishName": "İşleniyor",
+    "ClassEnglishName": "In Progress",
+    "TagName": "InProgress",
+    "ColorCode": "#aff29c"
+  }
+]
