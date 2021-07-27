@@ -1,0 +1,13 @@
+{
+    "DomainId": "d-rctvg6dc7734",
+    "DefaultUserSettings": {
+        "KernelGatewayAppSettings": {
+            "CustomImages": [
+                {
+                    "ImageName": "cropy-v01",
+                    "AppImageConfigName": "cropy-v01"
+                }
+            ]
+        }
+    }
+}

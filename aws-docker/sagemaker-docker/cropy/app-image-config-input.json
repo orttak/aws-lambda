@@ -1,0 +1,16 @@
+		{
+            "AppImageConfigName": "cropy-v01",
+            "KernelGatewayImageConfig": {
+                "KernelSpecs": [
+                    {
+                        "Name": "python3",
+                        "DisplayName": "Python 3 (cropy)"
+                    }
+                ],
+                "FileSystemConfig": {
+                    "MountPath": "/home/sagemaker-user",
+                    "DefaultUid": 1000,
+                    "DefaultGid": 100
+                }
+            }
+        }

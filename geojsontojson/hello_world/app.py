@@ -53,7 +53,9 @@ def get_json_from_geojson(url,vec_geojson):
     inv_transfrom = get_inv_transform()
     
     ## read the geojson as geoseries 
-    poly_gseries = gpd.GeoDataFrame.from_file(vec_geojson).dropna( inplace=False).reset_index()
+    #poly_gseries = gpd.GeoDataFrame.from_file(vec_geojson).dropna( inplace=False).reset_index()
+    poly_gseries = gpd.GeoDataFrame.from_file(vec_geojson)#.dropna( inplace=False).reset_index()
+    poly_gseries = poly_gseries[poly_gseries['geometry'].notna()].reset_index()
     
     ### project the geoseries to matrix coordinates 
     test_matcoor_w = poly_gseries.affine_transform(inv_transfrom)
