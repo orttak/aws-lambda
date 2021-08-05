@@ -1,6 +1,6 @@
 FROM public.ecr.aws/lambda/python:3.8
 
-COPY app.py requirements.txt Doktar_Feromon_Referans_v05.json ./
+COPY app.py requirements.txt Doktar_Feromon_Referans_v06.json ./
 
 RUN python3.8 -m pip install -r requirements.txt -t .
 

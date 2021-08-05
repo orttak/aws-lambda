@@ -61,7 +61,7 @@ def get_json_from_geojson(url,vec_geojson):
     test_matcoor_w = poly_gseries.affine_transform(inv_transfrom)
 
     ## read reference class names and ids file and convetr them to coco format
-    pth_json = os.path.join(os.path.dirname(os.path.realpath(__file__)),"Doktar_Feromon_Referans_v05.json")
+    pth_json = os.path.join(os.path.dirname(os.path.realpath(__file__)),"Doktar_Feromon_Referans_v06.json")
 
     with open(pth_json,encoding="utf-8") as json_file:
         ref_json = json.load(json_file) 
